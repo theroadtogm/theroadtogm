@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Paul, I'm a 14 y/o chess fan.
+
+I'm currently working on my website, and my chess 😁
+
 <!--
 **theroadtogm/theroadtogm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
