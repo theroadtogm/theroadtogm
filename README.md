@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-My name is Paul, I'm a 14 y/o chess fan.
+I'm a chess fan.
 
 I'm currently working on my website, and my chess 😁
 
+You can find me on chess.com, my username is IcelatedPawns.
 <!--
 **theroadtogm/theroadtogm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
